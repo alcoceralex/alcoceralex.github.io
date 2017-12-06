@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![Alex (2).PNG](https://github.com/alcoceralex/alcoceralex.github.io/blob/master/hihihii.PNG?raw=true "Optional Title")
+![Alex (2).PNG](https://github.com/alcoceralex/alcoceralex.github.io/blob/master/Alex%20(2).PNG?raw=true "Optional Title")
 
 ***
